@@ -19,8 +19,9 @@ At Xeleron, we're passionate about creating exceptional digital experiences thro
 
 We're fluent in a variety of technologies:
 
-- **Frontend**: React, React Native, Next.js, and more.
+- **Frontend**: React, Vue, Next.js, and more.
 - **Backend**: Node.js, Laravel, Python.
+- **Mobile**: Flutter, React Native.
 - **Databases**: MySQL, MongoDB, Redis.
 - **CSS Framework**: Tailwind CSS.
 
