@@ -1,6 +1,6 @@
 # Welcome to Xeleron!
 
-[![Xeleron Logo](https://avatars.githubusercontent.com/u/148441421?v=4)](https://www.xeleron.dev)
+[![Xeleron Dev](https://github.com/xeleron-dev/.github/assets/106765093/34d42ac6-91a1-4b74-a684-17d057261cba)](https://www.xeleron.dev)
 
 🚀 **Turning Ideas into Digital Reality** 🌐
 
