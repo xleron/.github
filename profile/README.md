@@ -1,7 +1,8 @@
-# Welcome to Xeleron!
+# In Code, We Trust.
 
-[![Xeleron Dev](https://github.com/xeleron-dev/.github/assets/106765093/34d42ac6-91a1-4b74-a684-17d057261cba)](https://www.xeleron.dev)
-![Screenshot 2023-11-06 at 17 25 25](https://github.com/xeleron-dev/.github/assets/106765093/f70ebd04-7522-4016-a645-7906f737c6a5)
+[![Xeleron Dev)](https://github.com/xeleron-dev/.github/assets/106765093/2b7cf32c-a3a8-48b7-a505-482a16f637cc)](https://www.xeleron.dev)
+
+
 
 🚀 **Turning Ideas into Digital Reality** 🌐
 
