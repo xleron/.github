@@ -27,11 +27,11 @@ We're fluent in a variety of technologies:
 
 ## Connect with Us
 
-🌍 [Visit our Website](https://www.xeleron.dev)
-📧 [Email Us](mailto:info@xeleron.dev)
+🌍 [Visit our Website](https://xeleron.dev)
+📧 [Email Us](mailto:hello@xeleron.dev)
 🐦 [Follow us on Twitter](https://twitter.com/Xeleron_dev)
 📷 [See our Projects on Facebook](https://www.facebook.com/xeleron.dev/)
-📰 [Read our Blog](https://www.xeleron.dev/blog)
+📰 [Read our Blog](https://xeleron.dev/blog)
 
 Feel free to reach out if you have questions, need assistance, or are interested in collaborating with us. We love connecting with the developer community!
 
