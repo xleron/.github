@@ -1,12 +1,12 @@
 # In Code, We Trust.
 
-[![Xeleron Dev)](https://github.com/xeleron-dev/.github/assets/106765093/2b7cf32c-a3a8-48b7-a505-482a16f637cc)](https://www.xeleron.dev)
+[![Xleron)](https://github.com/xeleron-dev/.github/assets/106765093/2b7cf32c-a3a8-48b7-a505-482a16f637cc)](https://xeleron.dev)
 
 
 
 🚀 **Turning Ideas into Digital Reality** 🌐
 
-At Xeleron, we're passionate about creating exceptional digital experiences through full-stack web development, mobile app development, machine learning, and IoT innovation. We bring visionary ideas to life through cutting-edge technology.
+At Xelron, we're passionate about creating exceptional digital experiences through full-stack web development, mobile app development, machine learning, and IoT innovation. We bring visionary ideas to life through cutting-edge technology.
 
 ## Our Expertise
 
@@ -28,11 +28,10 @@ We're fluent in a variety of technologies:
 ## Connect with Us
 
 🌍 [Visit our Website](https://xeleron.dev)
-📧 [Email Us](mailto:hello@xeleron.dev)
-🐦 [Follow us on Twitter](https://twitter.com/Xeleron_dev)
-📷 [See our Projects on Facebook](https://www.facebook.com/xeleron.dev/)
+📧 [Email Us](mailto:info@xeleron.dev)
+📷 [See our Projects on Facebook](https://www.facebook.com/xleronlabs/)
 📰 [Read our Blog](https://xeleron.dev/blog)
 
 Feel free to reach out if you have questions, need assistance, or are interested in collaborating with us. We love connecting with the developer community!
 
-#XeleronTech #WebDevelopment #MobileApps #MachineLearning #IoT #TechInnovation
+#XleronTech #WebDevelopment #MobileApps #MachineLearning #IoT #TechInnovation
