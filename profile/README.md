@@ -6,7 +6,7 @@
 
 🚀 **Turning Ideas into Digital Reality** 🌐
 
-At Xelron, we're passionate about creating exceptional digital experiences through full-stack web development, mobile app development, machine learning, and IoT innovation. We bring visionary ideas to life through cutting-edge technology.
+We're passionate about creating exceptional digital experiences through full-stack web development, mobile app development, machine learning, and IoT innovation. We bring visionary ideas to life through cutting-edge technology.
 
 ## Our Expertise
 
