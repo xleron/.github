@@ -1,4 +1,4 @@
-# In Code, We Trust.
+# Built for Simplicity
 
 [![Xleron)](https://github.com/xeleron-dev/.github/assets/106765093/2b7cf32c-a3a8-48b7-a505-482a16f637cc)](https://xeleron.dev)
 
